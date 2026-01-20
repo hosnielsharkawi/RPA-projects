@@ -1,0 +1,6 @@
+{
+  "Name": "MyFirstRpa",
+  "ProjectType": "Process",
+  "Description": "Sraping Data",
+  "MainFile": "Main.xaml"
+}
