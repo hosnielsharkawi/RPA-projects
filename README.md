@@ -84,3 +84,8 @@ A demonstration of UI stability and speed.
 * rpaMaharaTech-2nd
 * c_sharp_basic certificate
 * python_basic certificate
+
+---
+
+## Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosnielsharkawi)
