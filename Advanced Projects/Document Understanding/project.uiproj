@@ -1,0 +1,6 @@
+{
+  "Name": "Document Understanding",
+  "ProjectType": "Process",
+  "Description": "Document UnderstandingProcess",
+  "MainFile": "Main.xaml"
+}
