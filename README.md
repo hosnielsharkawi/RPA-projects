@@ -76,20 +76,11 @@ A demonstration of UI stability and speed.
 
 ---
 
-### Next Steps
-
-Would you like me to add a **"How to Run"** section or a **"Contact Me"** section with your LinkedIn and email to the bottom of this README?
-using dynamic selector and a single type into activity to fill data properly into change labels 
-
-certificates:
-Automation Dev Professional Training
-Automation Dev Associate Training
-Automation BA Associate Training
-rpaMaharaTech-1st
-rpaMaharaTech-2nd
-c_sharp_basic certificate
-python_basic certificate
-
-
-
-
+## Certificates:
+* Automation Dev Professional Training
+* Automation Dev Associate Training
+* Automation BA Associate Training
+* rpaMaharaTech-1st
+* rpaMaharaTech-2nd
+* c_sharp_basic certificate
+* python_basic certificate
