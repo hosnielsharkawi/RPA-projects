@@ -89,3 +89,4 @@ A demonstration of UI stability and speed.
 
 ## Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosnielsharkawi)
+> **Please Note:** While the technical content, project architecture, and automation logic are entirely my own work, I have utilized AI tools to refine the grammar and formatting of this README for better readability.
