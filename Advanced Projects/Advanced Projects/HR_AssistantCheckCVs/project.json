@@ -1,0 +1,62 @@
+{
+  "name": "HR_AssistantCheckCVs",
+  "projectId": "e9c5a53c-93ff-45f9-8fcc-236fbff7e3ed",
+  "description": "Check CVs are aligned with the job description.",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.DocumentUnderstanding.Activities": "2.17.2",
+    "UiPath.Excel.Activities": "[3.3.1]",
+    "UiPath.GSuite.Activities": "[3.6.2-preview]",
+    "UiPath.IntegrationService.Activities": "[1.22.0]",
+    "UiPath.System.Activities": "[25.12.0-preview]",
+    "UiPath.WebAPI.Activities": "[2.3.2]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "26.0.185.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "ab5b58cf-aa62-432b-ab1f-0ed3ce0205bd",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

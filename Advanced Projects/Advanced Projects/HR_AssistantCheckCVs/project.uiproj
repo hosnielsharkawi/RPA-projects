@@ -1,0 +1,6 @@
+{
+  "Name": "HR_AssistantCheckCVs",
+  "ProjectType": "Process",
+  "Description": "Check CVs are aligned with the job description.",
+  "MainFile": "Main.xaml"
+}
