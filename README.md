@@ -16,7 +16,8 @@ The projects are categorized by complexity and technical depth:
 
 *Each project in this section follows modular design principles and utilizes a Config file to eliminate hard-coding.*
 
-### Latest Project. Automated HR Candidate Screening System (UiPath & Gemini AI)
+
+### 1. Automated HR Candidate Screening System (Latest Project)
 
 ## Project Overview
 This RPA solution is an intelligent automation designed to streamline the recruitment screening process. By leveraging **Google Gemini AI**, the bot evaluates candidate CVs against specific Job Descriptions, handles file organization, and manages professional communication—all while maintaining high system resilience.
@@ -53,8 +54,8 @@ The project follows a robust RPA lifecycle:
 ---
 
 ## How to Use
-1.  **Clone the Repository:** `git clone [Your-Repository-Link]`
-2.  **Configure API Keys:** Open `Data/Config.xlsx` and insert your Gemini API keys in the `PrimaryApiKey` and `SecondaryApiKey` fields
+1.  **Clone the Repository:** 
+2.  **Configure Config file:**
 
 ### 2. Calculate Client Security Hash (SHA1)
 
