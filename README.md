@@ -54,8 +54,8 @@ The project follows a robust RPA lifecycle:
 ---
 
 ## How to Use
-1.  **Clone the Repository:** 
-2.  **Configure Config file:**
+1.  **Clone the Repository.** 
+2.  **Configure Config file.**
 
 ### 2. Calculate Client Security Hash (SHA1)
 
